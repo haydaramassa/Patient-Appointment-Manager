@@ -177,7 +177,7 @@
                   <Color blue="ff" green="fb" red="f8" type="rgb"/>
                 </Property>
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                  <Font name="Segoe UI" size="18" style="1"/>
+                  <Font name="Montserrat" size="18" style="1"/>
                 </Property>
               </Properties>
             </Component>

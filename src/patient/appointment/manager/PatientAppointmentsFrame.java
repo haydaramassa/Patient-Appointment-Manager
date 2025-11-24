@@ -94,7 +94,7 @@ public PatientAppointmentsFrame(int patientId, String patientName) {
 
         jTextField1.setEditable(false);
         jTextField1.setBackground(new java.awt.Color(248, 251, 255));
-        jTextField1.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        jTextField1.setFont(new java.awt.Font("Montserrat", 1, 18)); // NOI18N
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
